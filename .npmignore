@@ -1,0 +1,14 @@
+bench
+coverage
+docs
+node_modules
+src
+test
+*.md
+.gitignore
+.editorconfig
+.travis.yml
+setup.sh
+Gruntfile.js
+tslint.json
+.git/
